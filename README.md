@@ -39,6 +39,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a> 
 </p>
-### 🎮 Pacman Animation
-![Pacman Animation](https://raw.githubusercontent.com/tarunpoluri99/tarunpoluri99/output/pacman-contribution-graph.svg)
-
